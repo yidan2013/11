@@ -1,0 +1,2 @@
+include versioneer.py
+include W:/Jupyter-Notebook/Notebooks/FJiang/Github/11/_version.py
